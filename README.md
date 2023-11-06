@@ -2,6 +2,8 @@
 
 This repository is used to house the code utilized for the completion of the Columbia Coding Bootcamp's Module 5 Challenge.
 
+Link to Live Site: https://nrasch86.github.io/SchedulingApp/
+
 Utilized Code Includes: HTML, CSS, Javascript, Google Fonts, Font Awesome, Bootstrap V5, JSDelivr
 
 
